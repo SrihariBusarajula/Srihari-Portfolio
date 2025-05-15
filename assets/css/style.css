@@ -12940,8 +12940,12 @@ html {
 
 .sb_skillImage {
   height: 50px;
-  width: 100px;
+  width: 100%;
   margin: auto;
+}
+
+.sb_skillSec p {
+  text-align: center;
 }
 
 .sb_skillImage img {
@@ -12986,7 +12990,7 @@ html {
 }
 
 nav#mainNav.navbar-shrink {
-    box-shadow: 9px 5px 7px #fafafa;
+  box-shadow: 9px 5px 7px #fafafa;
 }
 
 
