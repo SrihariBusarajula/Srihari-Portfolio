@@ -12978,7 +12978,7 @@ html {
 .sb_WorkSecImage img {
   height: 100%;
   width: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .sb_WorkBlock {
